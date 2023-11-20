@@ -1,0 +1,12 @@
+{
+  "contractName": "concordium_multisig_contract",
+  "entrypoints": {
+    "receive": {
+      "error": "FQIAAAALAAAAUGFyc2VQYXJhbXMCCQAAAFlvdXJFcnJvcgI=",
+      "parameter": "AQ=="
+    },
+    "view": {
+      "returnValue": "FAAAAAAA"
+    }
+  }
+}
