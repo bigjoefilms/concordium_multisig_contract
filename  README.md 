@@ -1,0 +1,30 @@
+# Multi-Signature Smart Contract for Concordium Blockchain
+
+This repository contains the source code for a multi-signature smart contract designed for the Concordium blockchain. The smart contract implements functionality that requires 3 distinct accounts' signatures to authorize transfers.
+
+## Usage
+
+### Contract Overview
+
+The smart contract includes the following functionalities:
+- **Initialization**: Initializes the contract, setting up the initial state.
+- **Receiving Signatures**: Receives signatures from different accounts.
+- **Transfer Authorization**: Authorizes a transfer if the required number of signatures is obtained.
+
+### How to Deploy
+
+1. Clone this repository.
+2. Compile the code using the Concordium smart contract development tools.
+3. Deploy the compiled contract to the Concordium blockchain using the provided deployment tools.
+
+
+
+## Requirements
+
+- Concordium smart contract development tools (link to tools)
+- Access to a Concordium blockchain node or testnet for deployment
+
+Feel free to explore the code and adapt it for your specific use case!
+
+For any questions or issues, please create an issue in this repository.
+
